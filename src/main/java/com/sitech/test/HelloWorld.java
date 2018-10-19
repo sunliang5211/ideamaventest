@@ -6,5 +6,6 @@ package com.sitech.test;
 public class HelloWorld {
     public static void main(String[] args){
         System.out.println("Hello sunliang");
+        System.out.println("Hello yanyitong");
     }
 }
